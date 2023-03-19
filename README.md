@@ -28,7 +28,7 @@
   <a href="https://wikipedia.org/wiki/C_(programming_language)">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/C.png" height=5% alt="C">
   </a>
-  <a href="https://wikipedia.org/wiki/Python">
+  <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Python.png" height=5% alt="Python">
   </a>
   <a href="https://wikipedia.org/wiki/HTML">
