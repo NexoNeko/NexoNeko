@@ -25,25 +25,25 @@
 <div id="About_me" align="left">
   <h6>About:me</h6>
   <h2>Current Technologies</h2>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <a href="https://wikipedia.org/wiki/C_(programming_language)">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/C.png" height=5% alt="C">
   </a>
-  <a href="https://es.wikipedia.org/wiki/Python">
+  <a href="https://wikipedia.org/wiki/Python">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Python.png" height=5% alt="Python">
   </a>
-  <a href="https://es.wikipedia.org/wiki/HTML">
+  <a href="https://wikipedia.org/wiki/HTML">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/html.png" height=5% alt="html5">
   </a>
-  <a href="https://en.wikipedia.org/wiki/CSS">
+  <a href="https://wikipedia.org/wiki/CSS">
    <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/CSS.png" height=5% alt="CSS">
   </a>
-  <a href="https://en.wikipedia.org/wiki/MySQL">
+  <a href="https://wikipedia.org/wiki/MySQL">
   <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Mysql.png" height=5% alt="Mysql">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Flask_(web_framework)">
+  <a href="https://wikipedia.org/wiki/Flask_(web_framework)">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Flask.png" height=5% alt="Flask">
   </a>
-  <a href="https://en.wikipedia.org/wiki/Git">
+  <a href="https://wikipedia.org/wiki/Git">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Git.png" height=5% alt="Git">
   </a>
   
