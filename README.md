@@ -13,8 +13,9 @@
   <h3>Latest updates</h3>
   <p>
     👉 I am currently studying @ HolbertonSchool
+    👉 and also currently studying neural networks on my own
     <br>
-    🎲 Just finished a personal project: <a href="https://github.com/NexoNeko/Nox_Tools/tree/main/Nox_RPG/Gem%20roller">Gem roller</a>
+    🎲 Latest personal project: <a href="https://github.com/NexoNeko/Javascript-playground/tree/master/Neural%20network">Introduction to neural networks</a>
   </p>
 </div>
 <br>
