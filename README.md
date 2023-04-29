@@ -13,6 +13,7 @@
   <h3>Latest updates</h3>
   <p>
     👉 I am currently studying @ HolbertonSchool
+    <br>
     👉 and also currently studying neural networks on my own
     <br>
     🎲 Latest personal project: <a href="https://github.com/NexoNeko/Javascript-playground/tree/master/Neural%20network">Introduction to neural networks</a>
