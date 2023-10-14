@@ -46,7 +46,7 @@
   
 <h2>I'm interested in...</h2>
   <p>
-    🧠 Learning new technologies
+    👻 Spooky stuff
     <br>
     🕹 Game making
     <br>
@@ -54,7 +54,7 @@
     <br>
     🧙 Nerdy stuff
     <br>
-    💆‍♀️ Wellness
+    👨‍💻 Software/Hardware architecture
   </p>
 <h2>Words ☁</h2>
   <p>
@@ -68,7 +68,7 @@
     I dropped social media last year to focus on my projects and personal life, so if you need to contact me, send me a mail.
   </p>
   <p>
-    I'm currently not looking for collabs, maybe later!
+    I'm currently not looking for collabs.
   </p>
 </div>
 <br>
@@ -76,8 +76,8 @@
 <br>
 <div id="Contact" align="center">
   <h2>Social</h2>
-  <a href="https://nxonk.itch.io/">
-   <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/ItchIo.png" width=15% height=15% alt="Itch.io">
+  <a href="https://lamadriguera.neocities.org/">
+   <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/www.png" width=15% height=15% alt="Itch.io">
   </a>
   <a href="mailto:meresidamente@hotmail.com">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Email.png" width=15% height=15% alt="Email">
