@@ -40,9 +40,6 @@
   <a href="https://wikipedia.org/wiki/MySQL">
   <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Mysql.png" height=5% alt="Mysql">
   </a>
-  <a href="https://wikipedia.org/wiki/Flask_(web_framework)">
-    <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Flask.png" height=5% alt="Flask">
-  </a>
   <a href="https://wikipedia.org/wiki/Git">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Git.png" height=5% alt="Git">
   </a>
@@ -61,8 +58,8 @@
   </p>
 <h2>Words ☁</h2>
   <p>
-    I'm looking forward to becoming a Full-stack developer at some point, for now I'm still studying.
-    My favorite language is C, my favorite editor is Notepad++ and my favorite OS is FreeBSD.
+    I'm looking forward to becoming an embedded systems developer at some point, for now I'm still studying.
+    My favorite language is C, my favorite editor is Emacs and my favorite OS is FreeBSD.
   </p>
   <p>
     As of personal projects, I plan to make my own version of <a href="https://github.com/NexoNeko/ponyTown">Pony.town</a> at some point, but that's more of a long-term endeavor.
