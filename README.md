@@ -37,9 +37,6 @@
   <a href="https://wikipedia.org/wiki/CSS">
    <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/CSS.png" height=5% alt="CSS">
   </a>
-  <a href="https://wikipedia.org/wiki/MySQL">
-  <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Mysql.png" height=5% alt="Mysql">
-  </a>
   <a href="https://wikipedia.org/wiki/Git">
     <img src="https://raw.githubusercontent.com/NexoNeko/NexoNeko/main/images/Git.png" height=5% alt="Git">
   </a>
